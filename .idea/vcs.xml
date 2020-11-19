@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/crates/exchanges" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crates/feed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crates/instruments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crates/oms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crates/trader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exchanges" vcs="Git" />
+  </component>
+</project>
